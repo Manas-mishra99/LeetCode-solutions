@@ -1,20 +1,19 @@
 class Solution {
     public String interpret(String command) {
-        if(command.equals("Goal"))
+        if (command.equals("Goal"))
             return command;
-        String ch="";
-        for(int i=0;i<command.length();i++){
-            if(command.charAt(i)=='('){
-                if(command.charAt(i+1)==')'){
-                    ch+="o";
-                }else if(i<command.length()-1 && command.charAt(i+1)=='a'){
-                    ch+='a';
-                }
+        StringBuilder ans = new StringBuilder();
+        for (int i = 0; i < command.length(); i++) {
+            if (command.charAt(i) == '(' && command.charAt(i + 1) == ')') {
+                ans.append("o");
+                i++;
+            } else if (command.charAt(i) == 'G')
+                ans.append("G");
+            else {
+                ans.append("al");
+                i += 3;
             }
-            else if(command.charAt(i)==')' || command.charAt(i)=='a'){continue;}
-            else
-             ch+=command.charAt(i);
         }
-        return ch;
+        return ans.toString();
     }
 }
