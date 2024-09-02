@@ -20,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0746-prefix-and-suffix-search](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0746-prefix-and-suffix-search) |
 | [1797-goal-parser-interpretation](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/1797-goal-parser-interpretation) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0746-prefix-and-suffix-search](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0746-prefix-and-suffix-search) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
