@@ -30,6 +30,7 @@
 | [0001-two-sum](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0746-prefix-and-suffix-search](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0746-prefix-and-suffix-search) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Manas-mishra99/LeetCode-solutions/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
